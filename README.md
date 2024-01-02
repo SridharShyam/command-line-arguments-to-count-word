@@ -23,7 +23,7 @@ Print the total number of words in the file: `print("Number of words in file:", 
 
 ## PROGRAM:
 ```
-#Program to find the Word Count
+#Program to find the Word Count using command line arguments
 #Developed by: SHYAM S
 #Register Number: 23012478
 filename=input("Enter filename:")
