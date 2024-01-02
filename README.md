@@ -36,8 +36,7 @@ print("Number of words in file:",num)
 ```
 ### OUTPUT:
 
-![Screenshot 2024-01-02 175942](https://github.com/SridharShyam/command-line-arguments-to-count-word/assets/144871368/36b47b14-96c6-4c6a-ab70-504753198605)
-
+![Screenshot 2024-01-02 180545](https://github.com/SridharShyam/command-line-arguments-to-count-word/assets/144871368/84de9894-cc3f-44f1-8fb6-b0ac1e34d607)
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
